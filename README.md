@@ -1,7 +1,7 @@
 
 # AgileTimes
 
-Welcome to the Sample app for my Pluralsight Course [Building Beautiful Angular Apps with PrimeNG](https://app.pluralsight.com/courses/angular-apps-prime-ng).
+Welcome to the Sample app using Angular 4 and PrimeNG components.
 
 I'll keep this page updated with breaking changes as the course ages.
 
