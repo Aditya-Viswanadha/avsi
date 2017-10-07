@@ -15,6 +15,8 @@ const MAX_EXAMPLE_RECORDS = 1000;
 })
 export class AlltimesComponent implements OnInit {
 
+  onEditComplete(editInfo){}
+  onRowSelect(editInfo){}
   @ViewChild("dt") dt : DataTable;
 
   allTimesheetData = [];
